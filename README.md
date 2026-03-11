@@ -14,8 +14,8 @@ Building free developer tools and shipping code daily.
 **[Browse All Tools](https://scintillating-gratitude-production.up.railway.app/tools)** — 100% free, no sign-up required.
 
 ## Recent Activity
-- 3 pull requests
-- 11 pushes
+- 2 pull requests
+- 12 pushes
 - 4 issue interactions
 
 _Last 30 days of public activity._
