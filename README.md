@@ -15,8 +15,8 @@ Building free developer tools and shipping code daily.
 
 ## Recent Activity
 - 3 pull requests
-- 13 pushes
-- 5 issue interactions
+- 15 pushes
+- 3 issue interactions
 
 _Last 30 days of public activity._
 
